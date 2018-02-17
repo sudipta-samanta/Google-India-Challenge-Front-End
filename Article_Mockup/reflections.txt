@@ -1,0 +1,27 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ 
+ * What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+
+---
+
+Your response goes here!
+
+** I learned to build basic website using html5
+	- used paragraph tag, heading tag, img tag
+	- learned to add links that direct me to another site
+	- learned about different types of tags like b, em, strong, subsscript, superscript
+
+** I think html is not that hard to learn, but there is a lot of tags and there is times it feel overwhelmed abit
+
+** Some times it feels confusing how to break the page in different parts, like where to use br tag, or should I use more div tag etc.
+   And when I use w3c markup validation it said certain tags are outdated and use something else. But it feels nice when the page is up.
+
+** I used google search a lot and used different resources like W3C, MDN whene ever I feel any doubt. 
